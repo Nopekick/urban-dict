@@ -1,0 +1,39 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto');
+
+h1 {
+  font-size: 70px;
+  font-family: Roboto;
+  border-left: 3px solid aquamarine;
+  width: 300px;
+  margin: auto;
+  padding-left: 10px;
+  margin-bottom: 30px;
+  margin-top: 15px;
+}
+
+
+
+
+form {
+  display: flex;
+  justify-content: center;
+  align-content: center;
+}
+
+.box {
+  margin: 30px;
+  width: 900px;
+}
+
+.values {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-content: center;
+  flex-wrap: wrap;
+}
+
+.text {
+  font-size: 20px;
+  font-weight: 600;
+}
